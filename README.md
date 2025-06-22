@@ -27,13 +27,7 @@ Aplicación web en donde se pueden explorar guitarras de diferentes marcas y agr
     ```bash
    npm install
 
-3. Configura las variables de entorno en un archivo .env para conectar con tu base de datos y servicios externos.
-
-4. Ejecuta la aplicación en Backend:
-    ```bash
-   npm run dev:api
-
-5. Ejecuta la aplicación en Frontend:
+3. Ejecuta la aplicación en Frontend:
     ```bash
    npm run dev
 ---
