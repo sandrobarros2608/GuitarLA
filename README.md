@@ -7,11 +7,11 @@ Aplicación web en donde se pueden explorar guitarras de diferentes marcas y agr
 💡 *El proyecto ha sido desarrollado con las siguientes tecnologías:*
 
 ### Frontend
-⚛ *React* - Biblioteca de JavaScript para construir interfaces de usuario.
+⚛ **React** - Biblioteca de JavaScript para construir interfaces de usuario.
 
-💻 *JavaScript* - Lenguaje de programación principal del lado del cliente.
+💻 **JavaScript** - Lenguaje de programación principal del lado del cliente.
 
-🎨 *Bootstrap* - Framework CSS para diseño responsivo y componentes visuales.
+🎨 **Bootstrap** - Framework CSS para diseño responsivo y componentes visuales.
 
 ---
 
