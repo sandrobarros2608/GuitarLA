@@ -34,5 +34,8 @@ Aplicación web en donde se pueden explorar guitarras de diferentes marcas y agr
 
 ## 💡 Notas Adicionales
 
+> [!NOTE] 
+>  Version TypeScript: https://github.com/sandrobarros2608/GuitarLA-TS
+
 > [!WARNING] 
 >  Este es mi primer proyecto desarrollado con estas tecnologías, realizado gracias a un curso de Udemy. ¡Cualquier sugerencia o retroalimentación es bienvenida!
